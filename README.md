@@ -12,12 +12,13 @@
   - [Analyzing Live Streaming Data Using ThingsBoard](https://github.com/)
   - [Constructing a Web Server Using Kafka](https://github.com/)
 - <b>Publications</b>
-  - Chobthiangtham P. and Fukuda S., <i>Utilization of Plastic Waste to Solve the Problem in High-Moisture Biomass Gasification</i>, International Journal of Environmental Science and Development, November 2015, v.6; p. 805-810.
-  - Chobthiangtham P., Fukuda S. and Piumsomboon P., <i>Comparison of Hydrodynamic Behavior inside Bed Zone with Non-Simplified and Simplified Air Distributor in a Bubbling Fluidized Bed Gasifier Model</i>, Journal of Sustainable Energy & Environment, October-December 2014, v.5; p. 117-125.
+  - [Chobthiangtham P. and Fukuda S., <i>Utilization of Plastic Waste to Solve the Problem in High-Moisture Biomass Gasification</i>, International Journal of Environmental Science and Development, November 2015, v.6; p. 805-810](http://www.ijesd.org/vol6/703-D668.pdf)
+  - [Chobthiangtham P., Fukuda S. and Piumsomboon P., <i>Comparison of Hydrodynamic Behavior inside Bed Zone with Non-Simplified and Simplified Air Distributor in a Bubbling Fluidized Bed Gasifier Model</i>, Journal of Sustainable Energy & Environment, October-December 2014, v.5; p. 117-125](https://www.thaiscience.info/Journals/Article/JOSE/10985109.pdf)
   - Chobthiangtham P. and Fukuda S., <i>Hydrodynamic Behavior of a Bubbling Fluidized Bed Gasifier under Elevated Temperature: CFD Simulation</i>, Proceeding, 5th International Conference on Sustainable Energy and Environment (SEE 2014): Science, Technology and Innovation for ASEAN Green Growth, 19-21 November 2014, Bangkok, Thailand; p.127-130.
   - Chobthiangtham P. and Pipatmanomai S., <i>Co-Gasification of Biomass and Plastic Waste in a Bubbling Fluidized Bed Gasifier</i>, Proceeding, World Renewable Energy Congress 2009 – Asia and The 3rd International Conference on “Sustainable Energy and Environment (SEE 2009)”, 19-22 May 2009, BITEC, Bangkok, Thailand.
-  - Wantawin C. and Chobthiangtham P., <i>Solidification of Heavy Metal Sludge from Wastewater Treatment of Chromium Plating Operation by Using Cement, Lignite Fly Ash and Baghouse Filter Waste</i>, Journal Office, Prince of Songkhla University, July 2004, v.26 (Suppl.1); p.77-84.
-  - Wantawin C. and Chobthiangtham P., <i>Solidification of Heavy Metal Sludge from Chrome-Plating Mill by Portland Cement Mixed with Fly Ash and Black-Sand Dust</i>, 3rd National Environmental Conference, 28-30 January 2004, Songkhla, Thailand; p.70.
+  - [Wantawin C. and Chobthiangtham P., <i>Solidification of Heavy Metal Sludge from Wastewater Treatment of Chromium Plating Operation by Using Cement, Lignite Fly Ash and Baghouse Filter Waste</i>, Journal Office, Prince of Songkhla University, July 2004, v.26 (Suppl.1); p.77-84](http://www.sjst.psu.ac.th/journal/envi/cover-envi.pdf)
+  - Wantawin C. and Chobthiangtham P., <i>Solidification of Heavy Metal Sludge from Chrome-Plating Mill by Portland Cement Mixed with Fly Ash and Black-Sand Dust</i>, Proceeding, 3rd National Environmental Conference, 28-30 January 2004, Songkhla, Thailand; p.70.
+  - [Wantawin C. and Chobthiangtham P., <i>Using cement, lignite fly ash and baghouse filter waste for solidification of chromium electroplating treatment sludge</i>, Songklanakarin Journal of Science and Technology, February 2004, Thailand](https://www.researchgate.net/publication/26473784_Using_cement_lignite_fly_ash_and_baghouse_filter_waste_for_solidification_of_chromium_electroplating_treatment_sludge)
 - <b> Special Education Training</b>
 - <b><i>Data Science and Machine Learning (Udemy online course)</b></i>
   - Python; “The Python Mega Course:  Build 10 Real World Applications”, 
@@ -30,7 +31,8 @@
   - GRASP Graphical Rapid Analysis of Structure Program
   - AutoCAD
 - <b><i>Environmental Modeling</b></i>
-  - STELLA Mass Transfer Model; OZIPW Atmospheric Chemistry Model
+  - STELLA Mass Transfer Model 
+  - OZIPW Atmospheric Chemistry Model
 - <b><i>Environmental Engineering and Civil Engineering</b></i>
   - Practical Training Course Program for Remote Sensing
   - Total Station and GPS Using
