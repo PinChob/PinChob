@@ -3,14 +3,14 @@
 <h2>👨‍💻 Data Engineer and Energy/Environmental Engineering Researcher:</h2>
 
 - <b>Data Engineering (MIT xPRO) Projects</b>
-  - [A Model to Predict Housing Prices](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ETL, Analysis, and Visualization of the Monthly Retail Trade Survey Dataset](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Using Advance Python Programming to Create a Book Web Application](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Built a Transit Data Application](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Creating a Sensemaking Data Pipeline](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Streaming Live Data to ThingsBoard](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Analyzing Live Streaming Data Using ThingsBoard](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Constructing a Web Server Using Kafka](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [A Model to Predict Housing Prices](https://github.com/)
+  - [ETL, Analysis, and Visualization of the Monthly Retail Trade Survey Dataset](https://github.com/)
+  - [Using Advance Python Programming to Create a Book Web Application](https://github.com/)
+  - [Built a Transit Data Application](https://github.com/)
+  - [Creating a Sensemaking Data Pipeline](https://github.com/)
+  - [Streaming Live Data to ThingsBoard](https://github.com/)
+  - [Analyzing Live Streaming Data Using ThingsBoard](https://github.com/)
+  - [Constructing a Web Server Using Kafka](https://github.com/)
 - <b>Publications</b>
   - Chobthiangtham P. and Fukuda S., <i>Utilization of Plastic Waste to Solve the Problem in High-Moisture Biomass Gasification</i>, International Journal of Environmental Science and Development, November 2015, v.6; p. 805-810.
   - Chobthiangtham P., Fukuda S. and Piumsomboon P., <i>Comparison of Hydrodynamic Behavior inside Bed Zone with Non-Simplified and Simplified Air Distributor in a Bubbling Fluidized Bed Gasifier Model</i>, Journal of Sustainable Energy & Environment, October-December 2014, v.5; p. 117-125.
