@@ -3,14 +3,13 @@
 <h2>👨‍💻 Data Engineer and Energy/Environmental Engineering Researcher:</h2>
 
 - <b>Data Engineering (MIT xPRO) Projects</b>
-  - [A Model to Predict Housing Prices](https://1drv.ms/u/s!AuL4TAfY72Z0oRWA_Liq1ieKP_cx?e=hdJGcT)   
-  - [ETL, Analysis, and Visualization of the Monthly Retail Trade Survey Dataset](https://1drv.ms/u/s!AuL4TAfY72Z0oGib7m_nUSxb9ndq?e=caedVA)
-  - [Using Advance Python Programming to Create a Book Web Application](https://1drv.ms/w/s!AuL4TAfY72Z0oGc8t1WnSzSILoRn?e=6NJoae)
-  - [Built a Transit Data Application](https://1drv.ms/u/s!AuL4TAfY72Z0oRd-FlLtYztjr1KI?e=uYndUg)
-  - [Creating a Sensemaking Data Pipeline](https://1drv.ms/w/s!AuL4TAfY72Z0oSQC_JFc8mo_O0RS?e=kc4mie)
-  - [Streaming Live Data to ThingsBoard](https://1drv.ms/w/s!AuL4TAfY72Z0oSf8CPvhb0UPNuDa?e=K9o4do)
-  - [Analyzing Live Streaming Data Using ThingsBoard](https://1drv.ms/w/s!AuL4TAfY72Z0oSaOkUzBEQm58xrR?e=RPwU0h)
-  - [Constructing a Web Server Using Kafka](https://1drv.ms/w/s!AuL4TAfY72Z0oSghJ0C2H2h3Q2iI?e=CBo6Vi)
+  - [A Model to Predict Housing Prices](https://1drv.ms/u/s!AuL4TAfY72Z0oRWA_Liq1ieKP_cx?e=3MO2Ke)   
+  - [ETL, Analysis, and Visualization of the Monthly Retail Trade Survey Dataset](https://1drv.ms/b/s!AuL4TAfY72Z0oS5hrrouAjdbLXv0?e=UP2xcO)
+  - [Using Advance Python Programming to Create a Book Web Application](https://1drv.ms/w/s!AuL4TAfY72Z0oGc8t1WnSzSILoRn?e=hqzcGt)
+  - [Built a Transit Data Application](https://1drv.ms/u/s!AuL4TAfY72Z0oRd-FlLtYztjr1KI?e=dCPXVs)
+  - [Creating a Sensemaking Data Pipeline](https://1drv.ms/w/s!AuL4TAfY72Z0oSQC_JFc8mo_O0RS?e=7vP61T)
+  - [Streaming Live Data to ThingsBoard & Analyzing Live Streaming Data Using ThingsBoard](https://1drv.ms/w/s!AuL4TAfY72Z0oSf8CPvhb0UPNuDa?e=mNNihs)
+  - [Constructing a Web Server Using Kafka](https://1drv.ms/w/s!AuL4TAfY72Z0oSghJ0C2H2h3Q2iI?e=hYSVUN)
 - <b>Publications</b>
   - [Chobthiangtham P. and Fukuda S., <i>Utilization of Plastic Waste to Solve the Problem in High-Moisture Biomass Gasification</i>, International Journal of Environmental Science and Development, November 2015, v.6; p. 805-810](http://www.ijesd.org/vol6/703-D668.pdf)
   - [Chobthiangtham P., Fukuda S. and Piumsomboon P., <i>Comparison of Hydrodynamic Behavior inside Bed Zone with Non-Simplified and Simplified Air Distributor in a Bubbling Fluidized Bed Gasifier Model</i>, Journal of Sustainable Energy & Environment, October-December 2014, v.5; p. 117-125](https://www.thaiscience.info/Journals/Article/JOSE/10985109.pdf)
@@ -19,7 +18,7 @@
   - [Wantawin C. and Chobthiangtham P., <i>Solidification of Heavy Metal Sludge from Wastewater Treatment of Chromium Plating Operation by Using Cement, Lignite Fly Ash and Baghouse Filter Waste</i>, Journal Office, Prince of Songkhla University, July 2004, v.26 (Suppl.1); p.77-84](http://www.sjst.psu.ac.th/journal/envi/cover-envi.pdf)
   - Wantawin C. and Chobthiangtham P., <i>Solidification of Heavy Metal Sludge from Chrome-Plating Mill by Portland Cement Mixed with Fly Ash and Black-Sand Dust</i>, Proceeding, 3rd National Environmental Conference, 28-30 January 2004, Songkhla, Thailand; p.70.
   - [Wantawin C. and Chobthiangtham P., <i>Using cement, lignite fly ash and baghouse filter waste for solidification of chromium electroplating treatment sludge</i>, Songklanakarin Journal of Science and Technology, February 2004, Thailand](https://www.researchgate.net/publication/26473784_Using_cement_lignite_fly_ash_and_baghouse_filter_waste_for_solidification_of_chromium_electroplating_treatment_sludge)
-- <b> Special Education Training</b>
+- <b> Others Special Education Training</b>
 - <b><i>Data Science and Machine Learning (Udemy online course)</b></i>
   - Python; “The Python Mega Course:  Build 10 Real World Applications”, 
   - Python; “Machine Learning, Data Science and Deep Learning with Python”
